@@ -2,7 +2,7 @@
 
 # Círculo de Fogo
 
-Jogo de luta 2.5D inspirado em cultura brasileira, com arenas temáticas, sistema de “Ritual” (especial) e HUD minimalista. Feito em **Unity 6 (6000.x)**.
+Jogo de luta 2.D inspirado em cultura brasileira, com arenas temáticas, sistema de “Ritual” (especial) e HUD minimalista. Feito em **Unity 6 (6000.x)**.
 
 > Atualize aqui a versão exata da Unity (ex.: 6000.0.18f1) e o link do repositório quando subir.
 
@@ -57,15 +57,15 @@ ProjectSettings/
 > **Asset Serialization:** Force Text
 
 ## 🎯 Controles (padrão)
-**Teclado**
-- Movimento: `A / D`
-- Pular/Abaixar: `W / S`
-- Golpe fraco/médio/forte: `J / K / L`
-- Ritual (especial): `I`
-- Pausa: `Esc`
+**Teclado player 1**
+- Movimento: `A / D `
+- Pular: `W`
+- Golpe`Barra de espaço`
 
-**Gamepad**
-- Movimento: `D-Pad / Left Stick`
-- Golpes: `X / Y / B`
-- Ritual: `RB + X` (exemplo)
-- Pausa: `Start`
+**Teclado player 2**
+- Movimento: ` J / L`
+- Pular: `I`
+- Golpe`Barra de espaço`
+
+
+
